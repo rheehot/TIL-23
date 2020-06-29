@@ -23,7 +23,7 @@ Becasue When I build in Android studio to make an aar file, it was fine without 
 I thought that it had been fine but 
 It occured an error
 
-
- 정답은 각각의 A,B AAR을 Unity Editor에 포함해 주어야 한다
+The solution is that It has to contatin a and b aar files both on Unity Editor
  
- 자세하게는 > Editor/Plugin/Android/A,B both aar files
+ Detail... 
+ > Editor/Plugin/Android/A,B both aar files
