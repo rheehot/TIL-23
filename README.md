@@ -1,6 +1,6 @@
 
-# Today I learned
-[![HitCount](http://hits.dwyl.com/superbderrick/https://githubcom/superbderrick/TIL.svg)](http://hits.dwyl.com/superbderrick/https://githubcom/superbderrick/TIL)
+# Today I learned [![HitCount](http://hits.dwyl.com/superbderrick/https://githubcom/superbderrick/TIL.svg)](http://hits.dwyl.com/superbderrick/https://githubcom/superbderrick/TIL)
+
 
 - I will record what I learned every day
 
