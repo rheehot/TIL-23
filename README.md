@@ -1,7 +1,10 @@
 
 # Today I learned 
-I will record what I learned every day
+
 [![HitCount](http://hits.dwyl.com/superbderrick/https://githubcom/superbderrick/TIL.svg)](http://hits.dwyl.com/superbderrick/https://githubcom/superbderrick/TIL)
+
+I will record what I learned every day
+
 
 - UnityNativePlugin
   - [Unity Android Native Plugin AAR Dependency](https://github.com/superbderrick/TIL/blob/master/UnityNativePlugin/UnityAARDefendecy.md)
