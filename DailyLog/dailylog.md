@@ -10,3 +10,5 @@
 - 2020.07.12 : made plans for cs study and detail plans to go US
 
 - 2020.07.13 : focused unity native plugin works
+
+- 2020.08.17 : studied a cocoapod release process and iOS UI and MC 
