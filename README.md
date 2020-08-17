@@ -12,7 +12,7 @@ I will record what I learned every day
   - [Glance Android coroutine](https://github.com/superbderrick/TIL/blob/master/AndroidCoroutine/coroutine00.md)
 
 - Cocoapods
-- [Cocoapod Error case ](https://github.com/superbderrick/TIL/blob/master/Cocoapods/cocoapoderrorcase.md)
+  - [Cocoapod Error case ](https://github.com/superbderrick/TIL/blob/master/Cocoapods/cocoapoderrorcase.md)
 
 
 
