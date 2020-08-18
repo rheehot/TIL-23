@@ -6,4 +6,9 @@
     - iOS UI and MC  
 
 
+- 2020.08.18 : 
+- Developed an unity plugin in company 
+- Studied a little bit about mc concepts with Daily coding
+- worked SummerPlayer view a little bit
+
 
