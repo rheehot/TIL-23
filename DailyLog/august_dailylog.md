@@ -14,3 +14,6 @@
 - 2020.08.19:
 - Developed an unity plugin in company
 - worked summerplayer view to learn a swift and player concepts in iOS
+
+- 2020.08.20:
+- Developed an unity plugin for company works and object c ios concepts 
