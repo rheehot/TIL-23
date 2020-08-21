@@ -17,3 +17,6 @@
 
 - 2020.08.20:
 - Developed an unity plugin for company works and object c ios concepts 
+
+- 2020.08.21:
+- Developed an unity plugin for company works and object c ios concepts with Json utlity and UINITY
