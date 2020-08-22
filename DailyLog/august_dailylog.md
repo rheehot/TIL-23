@@ -20,3 +20,6 @@
 
 - 2020.08.21:
 - Developed an unity plugin for company works and object c ios concepts with Json utlity and UINITY
+
+- 2020.08.22:
+- Reading a book for knowhows of good programming habits 
