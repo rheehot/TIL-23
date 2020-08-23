@@ -23,3 +23,6 @@
 
 - 2020.08.22:
 - Reading a book for knowhows of good programming habits 
+
+- 2020.08.23:
+- ios with unity things.
