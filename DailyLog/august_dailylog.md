@@ -26,3 +26,6 @@
 
 - 2020.08.23:
 - ios with unity things.
+
+- 2020.08.24:
+- company works 
