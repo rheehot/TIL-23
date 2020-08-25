@@ -29,3 +29,6 @@
 
 - 2020.08.24:
 - company works 
+
+- 2020.08.25
+ - company works..
