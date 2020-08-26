@@ -1,5 +1,5 @@
 
-# Auguust
+# August
 
 - 2020.08.17 :  
     - studied a cocoapod release process [Cocoapods][Errorcase](https://github.com/superbderrick/TIL/blob/master/Cocoapods/cocoapoderrorcase.md)
@@ -31,4 +31,7 @@
 - company works 
 
 - 2020.08.25
+ - company works..
+
+- 2020.08.26
  - company works..
