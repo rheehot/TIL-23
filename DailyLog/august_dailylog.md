@@ -41,3 +41,7 @@
 
 - 2020.08.28
 - company works
+
+- 2020.08.29
+- nothing to do..
+
