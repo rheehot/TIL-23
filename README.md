@@ -5,7 +5,7 @@
 
 I will record what I learned every day
 
-- [Latest daily logs ](https://github.com/superbderrick/TIL/blob/master/DailyLog/august_dailylog.md)
+- [Latest daily logs ](https://github.com/superbderrick/TIL/blob/master/DailyLog/September.md)
 
 
 
