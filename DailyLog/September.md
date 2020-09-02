@@ -5,3 +5,4 @@
 0902
 - company works
 - unity plugin concepts and c# things 
+- design patterns with c#
