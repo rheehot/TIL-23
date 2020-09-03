@@ -6,3 +6,6 @@
 - company works
 - unity plugin concepts and c# things 
 - design patterns with c#
+
+0903
+- no works , holiday 
