@@ -14,3 +14,7 @@
 - iOS APP Programming with Multimedia concepts
 - Remind Swift
 
+0905
+
+- iOS a little bit
+
