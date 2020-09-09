@@ -29,3 +29,9 @@
 0908
 
 - company works
+
+
+0909
+
+- Nothing special, just works for company
+- a little bit c# for Action,Event,Handler repeat works 
