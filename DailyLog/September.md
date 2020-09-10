@@ -35,3 +35,8 @@
 
 - Nothing special, just works for company
 - a little bit c# for Action,Event,Handler repeat works 
+
+0910
+
+- Company works
+
