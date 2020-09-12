@@ -43,3 +43,6 @@
 0911
 - company works
 
+0912
+- no things 
+
