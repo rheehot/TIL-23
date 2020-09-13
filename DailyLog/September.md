@@ -46,3 +46,6 @@
 0912
 - no things 
 
+0913
+- iOS App developemnts with SummerPlayerView development 
+
