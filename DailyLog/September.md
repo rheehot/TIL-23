@@ -49,3 +49,5 @@
 0913
 - iOS App developemnts with SummerPlayerView development 
 
+0914
+- company works
