@@ -65,5 +65,10 @@
 0918
 - nothing 
 
-0918
+0919
 - ios with swift
+
+0920
+- ios with swift
+- Algorism 
+
