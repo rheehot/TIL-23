@@ -72,3 +72,6 @@
 - ios with swift
 - Algorism 
 
+
+0921
+- company works
